@@ -1,6 +1,9 @@
 _repo: Into-the-fourth-dimension_73382
 _version: 0.1.0
 alternative_title: Into the 4th dimension
+covers:
+- cover_type: archival
+  image_path: 73382-h/images/cover.jpg
 creator:
   author:
     agent_name: Cummings, Ray
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8443
     wikipedia: https://en.wikipedia.org/wiki/Ray_Cummings
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73382#Into-the-fourth-dimension
 gutenberg_issued: '2024-04-12'
 gutenberg_type: Text
 identifiers:
